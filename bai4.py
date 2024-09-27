@@ -50,4 +50,4 @@ def main():
     print("Phần tử lấy ra:", stack.pop())
     stack.display()
     
-main()   
+main()
