@@ -48,5 +48,4 @@ def main():
     print(hinh_tron)  
     print(f"Diện tích hình tròn: {hinh_tron.dien_tich()}")
 
-
 main()
